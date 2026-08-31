@@ -395,18 +395,14 @@ If this project supports your authorized security-awareness program:
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   💡 Love TwinPhish-Framework?                                ║
-║                                                                ║
-║   Help us continue developing high-quality security-awareness ║
-║   tools and resources. Your support fuels innovation!          ║
-║                                                                ║
-║   ⭐ Every star is appreciated!                               ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+
+                                                                
+   💡 Love TwinPhish-Framework?                                                                                             
+   Help us continue developing high-quality security-awareness 
+   tools and resources. Your support fuels innovation!         
+                                                                
+   ⭐ Every star is appreciated!                               
+                                                                
 
 ### Make a Contribution
 
