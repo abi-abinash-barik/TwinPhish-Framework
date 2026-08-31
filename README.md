@@ -191,7 +191,7 @@ Any captured demonstration data is held in volatile memory. Restarting or removi
 The following images showcase the TwinPhish-Framework interface and capabilities.
 
 <p align="center">
-  <img src="Screenshots/Screenshot (1).png" alt="TwinPhish Framework - Screenshot 1" width="600">
+  <img src="Screenshots/Screenshot (1).png" alt="TwinPhish Framework - Screenshot 1" width="600"> 
 </p>
 
 <p align="center">
