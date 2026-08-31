@@ -316,16 +316,16 @@ See the [`LICENSE`](LICENSE) file for the complete GNU General Public License v3
 
 <div align="center">
 
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   💡 Love TwinPhish-Framework?                                ║
-║                                                                ║
-║   Help us continue developing high-quality security tools     ║
-║   for pentesters and security researchers!                    ║
-║                                                                ║
-║   ⭐ Every star is appreciated!                               ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+
+                                                                
+   💡 Love TwinPhish-Framework?                                
+                                                                
+   Help us continue developing high-quality security tools     
+   for pentesters and security researchers!                    
+                                                                
+   ⭐ Every star is appreciated!                               
+                                                                
+
 
 ### Make a Contribution
 
