@@ -1,4 +1,4 @@
-# TwinPhish-Framework 
+# TwinPhish-Framework
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-TwinPhish--Framework-7c3aed?style=for-the-badge" alt="TwinPhish Framework">
